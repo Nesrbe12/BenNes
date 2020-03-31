@@ -1,0 +1,129 @@
+
+#connexion{
+
+	background-color: blue;
+	color:white;
+	border-radius : 20px
+}
+
+#header{
+	text-decoration: none;
+
+}
+
+.Gmail{
+	text-decoration: none;
+	color: black;
+}
+
+#header {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: line;
+	justify-content: top right;
+	margin : 30px;
+	margin-left: 30px;
+}
+
+
+input {
+	display: flex;
+		border-radius : 20px;
+}
+#milieu {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+#barre {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+
+}
+
+#icon{
+	display: flex;
+	align-self: top;
+
+}
+
+#corona{
+	display: flex;
+	justify-content: center;
+	flex-direction: line;
+
+}
+
+
+#research {
+
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+
+#labarre {
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    cursor: auto;
+    padding: 1px;
+    border: 2px inset;    
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 11px BlinkMacSystemFont;
+    -webkit-writing-mode: horizontal-tb;
+
+}
+
+
+#fr {
+	background-color: grey;
+}
+
+#deuxboutons {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: white;
+	margin-left: 15px;
+
+}
+#recherchegoogle {
+	background-color: grey;
+	color:white;
+	border-radius : 0px
+}
+
+
+
+#jaidelachance {
+	background-color: grey;
+	color:white;
+	margin-left: 15px;
+	border-radius : 0px
+}
+#bas {
+	display: flex;
+	justify-content: space-between;
+	background-color: grey;
+
+}
+
+#bas.droite{
+	display: flex;
+	flex-direction: row;
+}
